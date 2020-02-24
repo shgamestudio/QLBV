@@ -1,4 +1,4 @@
-# QLBV
+# Quản lý bán vé máy bay ver2
 ver2 update login, quan ly phieu chi, nhan vien
 
 Để sử dụng phần mềm yêu cầu máy phải có 
